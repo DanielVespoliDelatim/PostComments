@@ -1,0 +1,7 @@
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\bin\Debug\Aula9Ex2.exe.config
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\bin\Debug\Aula9Ex2.exe
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\bin\Debug\Aula9Ex2.pdb
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\obj\Debug\Aula9Ex2.csprojAssemblyReference.cache
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\obj\Debug\Aula9Ex2.csproj.CoreCompileInputs.cache
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\obj\Debug\Aula9Ex2.exe
+D:\66\VISUALSTUDIOC#\Aula9Ex2\Aula9Ex2\obj\Debug\Aula9Ex2.pdb
